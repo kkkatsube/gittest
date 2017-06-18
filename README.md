@@ -4,3 +4,4 @@
  - fixB
  - feature-B!
  - feature-D
+ - feature-D second
