@@ -2,3 +2,4 @@
 
  - feature-A
  - fixB
+ - feature-B!
